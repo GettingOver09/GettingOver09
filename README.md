@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Flutter, and Java**
 
-- 📫 How to reach me **aerodynamight05@gmail.com**
+- 📫 How to reach me **jan.w.sepe@gmail.com**
 
 - ⚡ Fun fact **I love coffee but coffee doesn't love me.**
 
