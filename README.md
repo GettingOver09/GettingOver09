@@ -1,31 +1,74 @@
+<!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Jan Wayne Sepe</h1>
-<h3 align="center">A passionate full stack developer from Philippines.</h3>
+<h3 align="center">☕ Full-Stack Developer | Mobile Enthusiast | Laravel & Flutter Wizard from 🇵🇭 Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gettingover09&label=Profile%20views&color=0e75b6&style=flat" alt="gettingover09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gettingover09" alt="gettingover09" /></a> </p>
-
-- 🔭 I’m currently working on my personal project **XpenseWise**
-
-- 🌱 I’m currently learning **Laravel and C++**
-
-- 👯 I’m looking to collaborate on **UM Panabo Website**
-
-- 🤝 I’m looking for help with **VoltUnity**
-
-- 💬 Ask me about **React, Flutter, and Java**
-
-- 📫 How to reach me **jan.w.sepe@gmail.com**
-
-- ⚡ Fun fact **I love coffee but coffee doesn't love me.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gettingover09&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gettingover09&theme=onedark&no-frame=false&row=1&column=7&margin-w=15" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gettingover09&show_icons=true&locale=en&layout=compact" alt="gettingover09" /></p>
+### 🚀 About Me
+- 🔭 Building **XpenseWise** – *Smart expense tracking for everyday heroes*  
+- 🌱 Currently mastering **Laravel** & **C++**  
+- 👯 Open to collaborate on **UM Panabo Website**  
+- 🤝 Seeking guidance on **VoltUnity** (Let’s power it up together!)  
+- 💬 Ask me about **React, Flutter, Java** – I live in components & state!  
+- 📫 Reach me: **jan.w.sepe@gmail.com**  
+- ⚡ Fun fact: *I love coffee, but coffee gives me jitters… still drink 3 cups a day ☕😅*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gettingover09&show_icons=true&locale=en" alt="gettingover09" /></p>
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:jan.w.sepe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/janwaynesepe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,laravel,php,nodejs,express,mysql,postgresql,firebase,git,docker,android,bootstrap,tailwind,python,java,cpp,vue&perline=10" />
+</p>
+
+> *Hover over icons on desktop for tooltips!*
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gettingover09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gettingover09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gettingover09&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=6C5CE7" />
+</p>
+
+---
+
+### ✨ Featured Projects
+| Project | Tech | Live | Repo |
+|-------|------|------|------|
+| **XpenseWise** | Flutter, Firebase | [🌐 Live](https://xpensewise.app) | [🔗 Code](#) |
+| **UM Panabo Website** | Laravel, Vue | [🌐 Live](#) | [🔗 Code](#) |
+| **VoltUnity** | C++, Flutter | *In Development* | Private |
+
+---
+
+### 💡 Currently Working On
+```text
+▶️ Refactoring XpenseWise with Riverpod & Clean Architecture
+▶️ Building a real-time dashboard for UM Panabo
+▶️ Learning C++ for embedded systems & performance-critical apps
