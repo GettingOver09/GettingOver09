@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Building **XpenseWise** – *Smart expense tracking for everyday heroes*  
+- 🔭 Building **XpenseWise** – *Smart expense tracking for everyday people*  
 - 🌱 Currently mastering **Laravel** & **C++**  
 - 🤝 Seeking guidance on **VoltUnity** (Let’s power it up together!)  
 - 💬 Ask me about **React, Flutter, Java** – I live in components & state!  
@@ -54,17 +54,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gettingover09&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=6C5CE7" />
 </p>
-
----
-
-### ✨ Featured Projects
-| Project | Tech | Live | Repo |
-|-------|------|------|------|
-| **XpenseWise** | Flutter, Firebase | [🌐 Live](https://xpensewise.app) | [🔗 Code](#) |
-| **UM Panabo Website** | Laravel, Vue | [🌐 Live](#) | [🔗 Code](#) |
-| **VoltUnity** | C++, Flutter | *In Development* | Private |
-
----
 
 ### 💡 Currently Working On
 ```text
