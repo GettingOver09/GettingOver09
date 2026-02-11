@@ -4,9 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gettingover09&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gettingover09&theme=onedark&no-frame=false&row=1&column=7&margin-w=15" />
-  </a>
 </p>
 
 ---
@@ -41,11 +38,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gettingover09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gettingover09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gettingover09&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=6C5CE7" />
 </p>
