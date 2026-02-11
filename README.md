@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Jan Wayne Sepe</h1>
-<h3 align="center">☕ Full-Stack Developer | Mobile Enthusiast | Laravel & Flutter Wizard from 🇵🇭 Philippines</h3>
+<h3 align="center">☕ Full-Stack Developer | Mobile Enthusiast | React and Flutter wizard from 🇵🇭 Philippines</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gettingover09&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
