@@ -14,7 +14,6 @@
 ### 🚀 About Me
 - 🔭 Building **XpenseWise** – *Smart expense tracking for everyday heroes*  
 - 🌱 Currently mastering **Laravel** & **C++**  
-- 👯 Open to collaborate on **UM Panabo Website**  
 - 🤝 Seeking guidance on **VoltUnity** (Let’s power it up together!)  
 - 💬 Ask me about **React, Flutter, Java** – I live in components & state!  
 - 📫 Reach me: **jan.w.sepe@gmail.com**  
@@ -69,6 +68,5 @@
 
 ### 💡 Currently Working On
 ```text
-▶️ Refactoring XpenseWise with Riverpod & Clean Architecture
-▶️ Building a real-time dashboard for UM Panabo
-▶️ Learning C++ for embedded systems & performance-critical apps
+▶️ Refactoring XpenseWise with PostgreSQL & Clean Architecture
+▶️ Learning C++ for game development
