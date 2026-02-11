@@ -17,7 +17,7 @@
 - 🤝 Seeking guidance on **VoltUnity** (Let’s power it up together!)  
 - 💬 Ask me about **React, Flutter, Java** – I live in components & state!  
 - 📫 Reach me: **jan.w.sepe@gmail.com**  
-- ⚡ Fun fact: *I love coffee, but coffee gives me jitters… still drink 3 cups a day ☕😅*
+- ⚡ Fun fact: *I love coffee, but coffee gives me jitters…☕😅*
 
 ---
 
@@ -29,19 +29,14 @@
   <a href="https://linkedin.com/in/janwaynesepe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,laravel,php,nodejs,express,mysql,postgresql,firebase,git,docker,android,bootstrap,tailwind,python,java,cpp,vue&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,laravel,php,nodejs,express,mysql,postgresql,firebase,git,docker,bootstrap,tailwind,python,java,cpp,vue&perline=10" />
 </p>
-
-> *Hover over icons on desktop for tooltips!*
 
 ---
 
